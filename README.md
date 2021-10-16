@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Kassets](https://github.com/kadinche/Kassets), and an Unpublished Game (Check my twitter for sneak peek!).
-- 🌱 I’m currently learning Code Architecture (infinitely).
-- 💬 Ask me about Game Development, Unity, Cats, anything-introverts, etc.
-- 📫 How to reach me: mainly on twitter @ripandy or try other social media: @ripandy or /ripandy.
+- 🔭  I’m currently working on [Kassets](https://github.com/kadinche/Kassets), and an Unpublished Game (Check my twitter for sneak peek!).
+- 🌱  I’m currently learning Code Architecture (infinitely).
+- 💬  Ask me about Game Development, Unity, Cats, anything-introverts, etc.
+- 📫  How to reach me: mainly on twitter @ripandy or try other social media: @ripandy or /ripandy.
+- ☕ Also, [a cup of Caffè Latte would be nice.](https://www.buymeacoffee.com/ripandy)
 
 <!--
 **ripandy/ripandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
