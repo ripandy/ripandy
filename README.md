@@ -5,7 +5,6 @@
 - 💬  Ask me about Game Development, xR Development, Unity, Unreal, Programming, Gaming, Cats, etc.
 - 📫  How to reach me: mainly on twitter @ripandy or try other social media: @ripandy or /ripandy.
 - ☕ Also, [a cup of Cafè Latte would be nice.](https://www.buymeacoffee.com/ripandy)
-- 😄 Pronouns: He/Him
 
 <!--
 **ripandy/ripandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
 
